@@ -7,8 +7,8 @@
  - [DATA CLEANING](#data-cleaning)
  - [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
  - [DATA ANALYSIS](#data-analysis)
- - [RESULTS/FINDINGS](#results-findings)
- - [RECOMMENDATIONS](#Recommendations)
+ - [RESULTS/FINDINGS](#results/findings)
+ - [RECOMMENDATIONS](#recommendations)
  - [LIMITATIONS](#limitations)
 
 ## PROJECT OVERVIEW
