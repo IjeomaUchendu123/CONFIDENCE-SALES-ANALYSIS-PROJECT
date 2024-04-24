@@ -12,7 +12,7 @@
  - [LIMITATIONS](#limitations)
 
 ## PROJECT OVERVIEW
-"""
+---
 
 This data analysis project seeks to provide insights into the sales performance of Confidence Stores for the year 2022. By analyzing various aspects of the sales data, we seek to identify trends, gain a deeper understanding of the stores performance and make data driven recommendations.
 
