@@ -8,8 +8,8 @@
  - [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
  - [DATA ANALYSIS](#data-analysis)
  - [RESULTS/FINDINGS](#results/findings)
- - [RECOMMENDATIONS](#Recomendations)
- - [LMITATIONS](#limitations)
+ - [RECOMMENDATIONS](#Recommendations)
+ - [LIMITATIONS](#limitations)
 
 ## PROJECT OVERVIEW
 
