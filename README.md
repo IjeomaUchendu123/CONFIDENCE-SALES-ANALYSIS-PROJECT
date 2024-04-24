@@ -45,7 +45,7 @@ In preparing the data fit for use, we performed the following tasks
 =TEXT([@Date],"MMM")
 ```
 
-### RESULTS/FINDINGS
+### RESULTS/FINDINGS.
 The findings of the analysis are underlisted below;
 1. The Company's sales had its peak in the month of march but thereafter recorded a steady decline in the last four months of the year.
 2. The percentage of Orders that were delivered was 92% with a return rate of 3% and and a 2% rate of cancelled orders.
