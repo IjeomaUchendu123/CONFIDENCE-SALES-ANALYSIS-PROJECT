@@ -7,7 +7,7 @@
  - [DATA CLEANING](#data-cleaning)
  - [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
  - [DATA ANALYSIS](#data-analysis)
- - [FINDINGS](#findings)
+ - [RESULTS](#results)
  - [RECOMMENDATIONS](#recommendations)
  - [LIMITATIONS](#limitations)
 
@@ -48,7 +48,7 @@ In preparing the data fit for use, we performed the following tasks
 =TEXT([@Date],"MMM")
 ```
 
-### FINDINGS.
+### RESULTS.
 The findings of the analysis are underlisted below;
 1. The Company's sales had its peak in the month of march but thereafter recorded a steady decline in the last four months of the year.
 2. The percentage of Orders that were delivered was 92% with a return rate of 3% and and a 2% rate of cancelled orders.
