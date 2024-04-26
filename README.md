@@ -30,9 +30,10 @@ Sales Data: The primary dataset used for this analysis is the "confidence_sales_
 ### DATA CLEANING
 
 In preparing the data fit for use, we performed the following tasks
-1. Data Loading and Inspection
-2. Handling missing values
-3. Data Formatting
+1. Extracting file from CSV to proper excel format
+2. Data Loading and Inspection
+3. Handling missing values and outliers
+4. Data Formatting
 
 ### EXPLORATORY DATA ANALYSIS
 - What is the overall monthly sales trend ?
@@ -47,7 +48,7 @@ In preparing the data fit for use, we performed the following tasks
 ```Excel
 =TEXT([@Date],"MMM")
 ```
-
+VlookUp for Age Range grouping
 ### RESULTS.
 The findings of the analysis are underlisted below;
 1. The Company's sales had its peak in the month of march but thereafter recorded a steady decline in the last four months of the year.
