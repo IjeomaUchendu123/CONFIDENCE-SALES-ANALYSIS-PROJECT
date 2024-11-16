@@ -14,9 +14,7 @@
 ## PROJECT OVERVIEW
 ---
 
-This data analysis project seeks to provide insights into the sales performance of Confidence Stores for the year 2022. By analyzing various aspects of the sales data, we seek to identify trends, gain a deeper understanding of the stores performance and make data driven recommendations.
-
-<img width="936" alt="ConfidenceStores" src="https://github.com/IjeomaUchendu123/CONFIDENCE-SALES-ANALYSIS-PROJECT/assets/150269976/048fb732-cb7d-4bf6-9b7e-24ce3d8befbd">
+This data analysis project seeks to provide insights into the sales performance of Confidence Stores for the year 2022. By analyzing various aspects of the sales data, we seek to identify trends, gain a deeper understanding of the stores performance and make data driven recommendations(Dataset File and Visualization attached).
 
 ### DATA SOURCES
 
